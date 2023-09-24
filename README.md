@@ -1,5 +1,5 @@
-# OpenGL-Billiards
-Simulating Billiards Pool.
+# 3D-Billiards-Game
+3D Billiards game using OpenGL.
 
 This project was done as a homework for Computer Graphics course to learn the main basics of computer graphics.
 It still need alot of working to enhance graphics and smoothing the movement, Also there is some bugs in the code (like sometimes two balls stuck with each other) but in general the simulation is quite good.
