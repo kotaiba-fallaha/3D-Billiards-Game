@@ -1,8 +1,7 @@
 # 3D-Billiards-Game
 3D Billiards game using OpenGL.
 
-This project was done as a homework for Computer Graphics course to learn the main basics of computer graphics. 
-It still need alot of working to enhance graphics and smoothing the movement, but in general the simulation is quite good.
+This project was completed as a Computer Graphics course assignment to learn the fundamentals of Computer Graphics. It still needs some improvements like enhancing the graphics and smoothing the movement, but the overall functionality of the simulation is quite impressive.
 
 Video presentation: https://www.youtube.com/watch?v=4CfJjKCgV2A
 
